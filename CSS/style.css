@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'VirginiaPlain';
+    src: url(/font/VIRGP___.TTF) format('truetype');
+}
+
+@font-face {
+    font-family: 'SweetMavka';
+    src: url(/font/ofont.ru_Sweet\ Mavka\ Script.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Bowler';
+    src: url(/font/ofont.ru_Bowler.ttf) format('truetype');
+}
+
+.bg-home1 {
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.text-color-top {
+    color: #120d0a;
+}
+
+
+nav>ul>li>a:hover {
+    background-color: #cf7634;
+    color: #fcf8f7;
+}
+
+section>div>div>div>h1 {
+    font-size: 120px;
+    font-family: VirginiaPlain;
+}
+
+.slogan {
+    font-size: 20px;
+    font-family: SweetMavka;
+}
+
+.bowler{
+font-family: Bowler;
+color: #e7dca0;
+font-weight: 900;
+text-shadow: 2px 2px black;
+text-decoration: 2px solid black;
+}
+
+.text-shadow{
+text-shadow: 1px 1px #2a3853;
+
+}
